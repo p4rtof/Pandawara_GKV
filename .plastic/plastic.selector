@@ -1,0 +1,4 @@
+repository "Pandawara_GKV 2026-05-14_19-03-01/Pandawara_GKV@18968421074846@cloud"
+  path "/"
+    br "/main"
+    co "/main"
